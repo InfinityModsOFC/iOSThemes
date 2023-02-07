@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <themes>
-<data xmls="https://github.com/InfinityModsOFC/ISOThemes/tree/xml/" walls="https://github.com/InfinityModsOFC/ISOThemes/tree/walls/" scs="https://github.com/InfinityModsOFC/ISOThemes/tree/screens/"/>
+<data xmls="https://raw.githubusercontent.com/InfinityModsOFC/iOSThemes/main/xml/" walls="https://raw.githubusercontent.com/InfinityModsOFC/iOSThemes/main/walls/" scs="https://raw.githubusercontent.com/InfinityModsOFC/iOSThemes/main/screens/"/>
 <theme>
 <title>Dark_Mood_TR_iOS</title>
 <date>07/02/2023</date>
